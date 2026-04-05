@@ -9,3 +9,4 @@ contract BooleanStorage {
         status = _status;
     }
 }
+Update variable naming
