@@ -13,3 +13,4 @@ Update variable naming
 Add input validation
 Improve security checks
 Simplify contract flow
+Update deployment config
