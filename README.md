@@ -15,3 +15,4 @@ Improve security checks
 Simplify contract flow
 Update deployment config
 Improve naming scheme
+Add helper function
